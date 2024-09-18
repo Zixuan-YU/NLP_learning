@@ -13,3 +13,10 @@ which python
 # create the dir named 'venv' in the home dir
 # then add '/venv' to the .gitignore
 
+# whenever install packages on this mac, use pip3 install
+
+
+deactivate
+# when finished, deactivate the virtual environment
+
+
